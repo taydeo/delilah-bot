@@ -3,7 +3,7 @@ const path = require('path');
 const token = process.env.CommieBotToken;
 
 const client = new commando.Client({
-    owner: '696794177421181079',
+    owner: '280450694060965889',
     commandPrefix: '$'
 });
 
